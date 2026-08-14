@@ -17,3 +17,5 @@ addons
 src
 restore_database.md
 
+hero_reference.json
+backup.dump
