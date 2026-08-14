@@ -1,0 +1,50 @@
+{
+  "stalled_opportunity": {
+    "account_id": 6,
+    "opportunity_id": 1
+  },
+  "risky_customer": {
+    "account_id": 10,
+    "opportunity_id": 2,
+    "case_ids": [
+      2,
+      3
+    ]
+  },
+  "vip_escalation": {
+    "account_id": 14,
+    "case_id": 4
+  },
+  "healthy_account": {
+    "account_id": 18,
+    "opportunity_id": 3
+  },
+  "meeting_prep": {
+    "account_id": 22,
+    "opportunity_id": 4,
+    "case_id": 5,
+    "contacts": [
+      [
+        23,
+        "Fatima Chen"
+      ],
+      [
+        24,
+        "Layla Bennett"
+      ],
+      [
+        25,
+        "Sofia Novak"
+      ],
+      [
+        26,
+        "Omar Larsen"
+      ]
+    ]
+  },
+  "slipping_deal": {
+    "account_id": 27,
+    "slipping_opportunity_id": 5,
+    "on_track_opportunity_id": 6
+  }
+}

@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+testing-connection.py
+
+# Virtual environments
+.venv
+backups
+.DS_Store
+command.md
+.env
+addons
+src
+RESTORE_DATABASE_GUIDE.md
+
