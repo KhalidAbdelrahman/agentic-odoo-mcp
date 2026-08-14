@@ -15,5 +15,5 @@ command.md
 .env
 addons
 src
-RESTORE_DATABASE_GUIDE.md
+restore_database.md
 
